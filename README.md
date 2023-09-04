@@ -4,8 +4,6 @@
 
 Programador full stack altamente qualificado com experiência abrangente em desenvolvimento web.
 
-Com um histórico sólido de projetos bem-sucedidos, estou altamente comprometido com o desenvolvimento de software, em busca de desafios estimulantes para contribuir com o sucesso de projetos de ponta e desenvolvimento pessoal. Buscando exceder as expectativas dos clientes e entregar produtos de qualidade excepcional.
-
 ## 🔧 Tecnologias e Habilidades
 
 - 💻 Linguagens de Programação: TypeScript, JavaScript.
