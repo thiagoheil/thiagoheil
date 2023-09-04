@@ -2,11 +2,9 @@
 
 ## 📖 Sobre Mim
 
-Olá! Meu nome é Thiago e Sou um programador full stack altamente qualificado com experiência abrangente em desenvolvimento web.
+Programador full stack altamente qualificado com experiência abrangente em desenvolvimento web.
 
-Com um histórico sólido de projetos bem-sucedidos, estou altamente comprometido com o desenvolvimento de software, em busca de desafios estimulantes para contribuir com o sucesso de projetos de ponta e o desenvolvimento pessoal.
-
-Resolver problemas complexos me impulsiona a enfrentar desafios com entusiasmo, buscando sempre exceder as expectativas dos clientes e entregar produtos de qualidade excepcional.
+Com um histórico sólido de projetos bem-sucedidos, estou altamente comprometido com o desenvolvimento de software, em busca de desafios estimulantes para contribuir com o sucesso de projetos de ponta e desenvolvimento pessoal. Buscando exceder as expectativas dos clientes e entregar produtos de qualidade excepcional.
 
 ## 🔧 Tecnologias e Habilidades
 
